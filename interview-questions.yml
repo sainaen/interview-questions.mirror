@@ -326,6 +326,11 @@ qs:
 - q: What's your e-mail address?
   a: So you can follow up or ask more questions after the interview.
 
+- q: Given a month of time to work on it, what would you work on in your current product?
+  ref: https://news.ycombinator.com/item?id=11496962
+  tags: [issues]
+
+
 # Valid values for these question fields
 tags: [process, culture, people, tech, management, hiring, issues]
 who: [engineer, manager, exec, hr, other]
