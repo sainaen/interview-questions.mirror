@@ -185,7 +185,7 @@ qs:
     doing more legacy maintenance than expected.
   followup: How does that break down by language?
 
-- q: How would you gague your technical debt?
+- q: How would you gauge your technical debt?
   a: Lower is better, but an explicit process to manage it is even better.
   followup: Do you have a process for managing it?
   pri: 2
