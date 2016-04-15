@@ -329,6 +329,17 @@ qs:
 - q: Given a month of time to work on it, what would you work on in your current product?
   ref: https://news.ycombinator.com/item?id=11496962
   tags: [issues]
+  
+- q: What are your policies regarding contributing to open source?
+  a: A demand you not contribute to FOSS projects, especially when on your own time, is a huge red flag for culture.
+    Better would be if contributions are at least not discouraged, best would be officially sanctioned, or even
+    done as part of the job. This will likely be covered in any contract or handbook anyways, but it may be an
+    important signal to find out ahead of time.
+  followup:
+    - What projects are contributed to officially?
+    - Are there hackathons or a variation of "20% time" where people are encouraged to make these contributions if they want?
+  pri: 2
+  tags: [culture, issues]
 
 
 # Valid values for these question fields
