@@ -8,10 +8,11 @@ qs:
   tags: [tech]
 
 - q: What is the oldest version of iOS you support?
-  followup: 
+  a: Some kind of data-driven decision that sounds plausible e.g. 20% of our users still run iOS 4.  And is it really
+    "support" if it's not being tested?
+  followup:
     - How do I request a test device running that version?
     - What information do you look at to make this decision?
-  a: Some kind of data-driven decision that sounds plausible e.g. 20% of our users still run iOS 4.  And is it really "support" if it's not being tested?  
   tags: [tech]
 
 - q: Tell me about the history of your codebase
@@ -23,11 +24,7 @@ qs:
   tags: [process]
 
 - q: What third-party code do you use inside the app?
+  a: In the settings screen.  The real point of this question is that if third-party developers are ignored (to the
+    point of a license violation), first party developers will be ignored too.
   followup: How do you comply with the attribution requirements of the code you use?
-  a: In the settings screen.  The real point of this question is that if third-party developers are ignored (to the point of a license violation), first party developers will be ignored too.
   tags: [tech]
-
-- q: How often does someone break the build, and how long does it take to find out?
-  a: Never, because we use continuous integration and we find out immediately.
-  tags: [tech]
-
