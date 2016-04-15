@@ -341,6 +341,12 @@ qs:
   pri: 2
   tags: [culture, issues]
 
+- q: Does your team attend training or conferences more often?
+  a: Training may indicate a pyramid-shaped team with many junior devs. Conferences indicates somewhere in the middle.
+    "Presents at conferences" can indicate a high percentage of senior staff.
+  tags: [people]
+  who: [manager]
+
 
 # Valid values for these question fields
 tags: [process, culture, people, tech, management, hiring, issues]
