@@ -10,13 +10,16 @@ qs:
   tags: [issues]
 
 - q: Could your manager step in and do your job if necessary?
-  a: Yes (perhaps with some period of getting up to speed, etc.).  Avoid working for non-technical management.
-    Work for a manager who understands what their reports do, the complexity and level of effort of tasks,
+  a: Yes (perhaps with some period of getting up to speed, etc.).
+    Research shows that "the benefit of having a highly competent boss is easily the largest positive influence on a typical worker’s level of job satisfaction."
+    Avoid working for non-technical management. Work for a manager who understands what their reports do, the complexity and level of effort of tasks,
     can help you with technical problems, can critically evaluate alternatives, and detect bullshit.  Work
     where people are hired and promoted because they are capable and respected.  Ideally every manager up to
     and including the CEO is technical.
   followup: Could your manager's manager?  The CEO?
-  ref: http://www.algeri-wong.com/yishan/engineering-management-technical-leaders.html
+  ref:
+    - http://www.algeri-wong.com/yishan/engineering-management-technical-leaders.html
+    - https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
   pri: 1
   tags: [management]
 
